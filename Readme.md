@@ -1,4 +1,4 @@
-This is the interactive map for article "Where are older people in Sydney?" prepared by Noah Fu and Dr Kim Johnstone | August 1, 2019.
+This is the interactive map for article "Where are older people in Sydney?" prepared by Noah Fu and Dr Kim Johnstone, August 1, 2019.
 Link: https://astrolabegroup.com.au/where-are-older-people-in-sydney/
 
 
